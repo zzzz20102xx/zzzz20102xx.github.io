@@ -1,0 +1,475 @@
+
+/*body {
+  
+  
+  background-attachment: fixed;
+  background-position: center;
+  
+  background-size:100% 100%;
+  background-image: url('https://is.gd/WRsWzX');
+  
+/*body {
+  
+  
+  background-attachment: fixed;
+  background-position: center;
+  
+  background-size:100% 100%;
+  background-image: url('https://is.gd/WRsWzX');
+  
+  background-repeat: no-repeat;
+    
+    
+}*/
+#bg img{    
+   
+    width: 100%;
+    height: 100%;
+    object-fit:cover;  
+}
+#bg{
+     
+    width:1300px;
+    height: 550px;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    
+    z-index: -1;
+    
+}
+
+#Div1{
+    
+    width:60px
+    line-height: 20px;
+    position: absolute;
+    
+    right:  500px;
+    top: 30px;
+    border-bottom-style: solid;
+    border-bottom-color: white;
+    border-bottom-width: 2px;
+    
+    color: white;
+    display: inline;
+    
+}
+#Div2{ 
+    width:60px;
+    line-height: 20px;
+    position: absolute;
+    right:420px;
+    top: 30px;
+    
+    border-bottom-style: solid;
+    border-bottom-color: white;
+    border-bottom-width: 2px;
+    
+    color: white;
+    display: inline;
+}
+#Div3{ 
+    width:60px;
+    line-height: 20px;
+    position: absolute;
+    right:340px;
+    top: 30px;
+    
+    border-bottom-style: solid;
+    border-bottom-color: white;
+    border-bottom-width: 2px;
+    
+    color: white;
+    display: inline;
+}
+#Div4{ 
+    width:80px;
+    
+    line-height: 20px;
+    position: absolute;
+    right:240px;
+    top: 30px;
+    
+    border-bottom-style: solid;
+    border-bottom-color: white;
+    border-bottom-width: 2px;
+    color: white;        
+    display: inline;
+}
+#Div5{ 
+    width:80px;
+    height: 30px;
+    line-height: 30px;
+    position: absolute;
+    right:140px;
+    top: 20px;
+    
+    
+    border-style: solid;
+    border-width: 2px;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+    
+    background-color: white;
+    color: skyblue;
+    text-align:center;
+    display: inline;
+}
+#IG_1{
+    
+    position: absolute;
+    top: 0px;
+    left: 20px;
+    
+}
+#IG_2{
+    position: absolute;
+    top: 250px;
+    left: 0px;
+    background-color: transparent;
+    border-color: transparent;
+}
+#IG_3{
+    position: absolute;
+    top: 250px;
+    right: 0px;
+    background-color: transparent;
+    border-color: transparent;
+}
+#IG_4{
+    position: absolute;
+    right: 90px;    
+    top: 20px;
+}
+#IG_5{
+    position: absolute;
+    right: 40px;    
+    top: 400px;
+}
+.dropdown1{
+    position: relative;
+    display: inline-block;
+}
+.dropdown-content1{
+    display: none;
+    position: absolute;
+    color: skyblue;
+    background-color: white;
+    padding: 12px 16px;
+    
+}
+.dropdown1:hover .dropdown-content1{
+    display: block;
+}
+.dropdown2{
+    position: relative;
+    display: inline-block;
+}
+.dropdown-content2{
+    display: none;
+    position: absolute;
+    color: skyblue;
+    background-color: white;
+    padding: 12px 16px;
+    
+}
+.dropdown2:hover .dropdown-content2{
+    display: block;
+}
+.dropdown3{
+    position: relative;
+    display: inline-block;
+}
+.dropdown-content3{
+    display: none;
+    position: absolute;
+    color: skyblue;
+    background-color: white;
+    padding: 12px 16px;
+    
+}
+.dropdown3:hover .dropdown-content3{
+    display: block;
+}
+.dropdown4{
+    position: relative;
+    display: inline-block;
+}
+.dropdown-content4{
+    display: none;
+    position: absolute;
+    color: skyblue;
+    background-color: white;
+    padding: 12px 16px;
+        
+}
+.dropdown4:hover .dropdown-content4{
+    display: block;
+}
+.dropdown1:hover ~ .Blur{
+    filter: blur(8px);
+}
+.dropdown2:hover ~ .Blur{
+    filter: blur(8px);
+}
+.dropdown3:hover ~ .Blur{
+    filter: blur(8px);
+}
+.dropdown4:hover ~ .Blur{
+    filter: blur(8px);
+}
+
+.Button_Transparent{
+    opacity: 0.5;
+}
+  background-repeat: no-repeat;
+    
+    
+}*/
+/*img{    
+    
+    width: 100%;
+    height: 100%;
+    object-fit:fill;
+    object-position: 0 0;
+}*/
+#bg-image2{
+     
+    width:1300px;
+    height: 600px;
+    background:url(https://is.gd/WRsWzX);   
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+   
+    z-index: -1;
+    
+}
+
+#Div1{
+    
+    width:60px
+    line-height: 20px;
+    position: absolute;
+    
+    right:  500px;
+    top: 30px;
+    border-bottom-style: solid;
+    border-bottom-color: white;
+    border-bottom-width: 2px;
+    
+    color: white;
+    display: inline;
+    
+}
+#Div2{ 
+    width:60px;
+    line-height: 20px;
+    position: absolute;
+    right:420px;
+    top: 30px;
+    
+    border-bottom-style: solid;
+    border-bottom-color: white;
+    border-bottom-width: 2px;
+    
+    color: white;
+    display: inline;
+}
+#Div3{ 
+    width:60px;
+    line-height: 20px;
+    position: absolute;
+    right:340px;
+    top: 30px;
+    
+    border-bottom-style: solid;
+    border-bottom-color: white;
+    border-bottom-width: 2px;
+    
+    color: white;
+    display: inline;
+}
+#Div4{ 
+    width:80px;
+    
+    line-height: 20px;
+    position: absolute;
+    right:240px;
+    top: 30px;
+    
+    border-bottom-style: solid;
+    border-bottom-color: white;
+    border-bottom-width: 2px;
+    color: white;        
+    display: inline;
+}
+#Div5{ 
+    width:80px;
+    height: 30px;
+    line-height: 30px;
+    position: absolute;
+    right:140px;
+    top: 20px;
+    
+    
+    border-style: solid;
+    border-width: 2px;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+    
+    background-color: white;
+    color: skyblue;
+    text-align:center;
+    display: inline;
+}
+#IG_1{
+    
+    position: absolute;
+    top: 0px;
+    left: 20px;
+    
+}
+#IG_2{
+    position: absolute;
+    top: 250px;
+    left: 0px;
+    background-color: transparent;
+    border-color: transparent;
+}
+#IG_3{
+    position: absolute;
+    top: 250px;
+    right: 0px;
+    background-color: transparent;
+    border-color: transparent;
+}
+#IG_4{
+    position: absolute;
+    right: 90px;    
+    top: 20px;
+}
+#IG_5{
+    width: 200px;
+    height: 50px;
+    position: absolute;
+    right: 80px;    
+    top: 400px;
+}
+/*div clas img can control the image in single div*/
+#IG_5 img{
+    object-fit: contain;
+}
+#IG_6
+{
+    width: 200px;
+    height: 50px;
+    position: absolute;
+    right: 540px;    
+    top: 350px; 
+}
+#IG_6 img
+{
+    object-fit: contain;
+}
+.dropdown1{
+    position: relative;
+    display: inline-block;
+}
+.dropdown-content1{
+    display: none;
+    position: absolute;
+    color: skyblue;
+    background-color: white;
+    padding: 12px 16px;
+    
+}
+.dropdown1:hover .dropdown-content1{
+    display: block;
+}
+.dropdown2{
+    position: relative;
+    display: inline-block;
+}
+.dropdown-content2{
+    display: none;
+    position: absolute;
+    color: skyblue;
+    background-color: white;
+    padding: 12px 16px;
+    
+}
+.dropdown2:hover .dropdown-content2{
+    display: block;
+}
+.dropdown3{
+    position: relative;
+    display: inline-block;
+}
+.dropdown-content3{
+    display: none;
+    position: absolute;
+    color: skyblue;
+    background-color: white;
+    padding: 12px 16px;
+    
+}
+.dropdown3:hover .dropdown-content3{
+    display: block;
+}
+.dropdown4{
+    position: relative;
+    display: inline-block;
+}
+.dropdown-content4{
+    display: none;
+    position: absolute;
+    color: skyblue;
+    background-color: white;
+    padding: 12px 16px;
+        
+}
+.dropdown4:hover .dropdown-content4{
+    display: block;
+}
+.dropdown1:hover ~ .Blur{
+    filter: blur(8px);
+}
+.dropdown2:hover ~ .Blur{
+    filter: blur(8px);
+}
+.dropdown3:hover ~ .Blur{
+    filter: blur(8px);
+}
+.dropdown4:hover ~ .Blur{
+    filter: blur(8px);
+}
+/*.dropdown4:hover ~ .change_ig{
+    background: url("https://is.gd/zKXY6G");
+    width: 1300px;/*要設定寬高不然出不
+    height: 550px;
+}*/
+.Button_Transparent{    
+    opacity: 0.7;
+}
+.slogan{
+    position: absolute;
+    top: 200px;
+    right: 200px;
+    font-size: 40px;
+    color: white;
+    font-weight: bold;
+}
+.slogan:hover{
+    top: 150px;
+    right: 450px;
+    font-size:50px;
+}
+
